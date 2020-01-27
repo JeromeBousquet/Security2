@@ -4,11 +4,13 @@ DEPLOY SECURE APPS (part two)
 ![center](/fb.png)
 
 <h3>Lundi</h3>
+
 **Retour alternance**
 
 **Veille sur les outils de dev du navigateur**
 
 **Monday Algo live coding**
+
 *Ecrire un prog java qui doit, pour un tableau contenant X nombres donné, retourner la somme des 2 plus grands nombres présent dans ce tableau.
 Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 
@@ -37,6 +39,7 @@ Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 60.9 Sur la page d'accueil, ajouter 2 boutons qui ouvrent les composants login et tasks
 
 <h3>Mardi</h3>
+
 **Veille sur le protocole Http**
 
 61.1 Réaliser un formulaire d'authentification sur le composant login
@@ -49,6 +52,7 @@ Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 61.6 Trouver une solution en cas de token expiré ou malveillant
 
 <h3>Mercredi</h3>
+
 **Veille sur comment tester les failles de sécurité d'une api/appli**
 
 62.1 Ajouter un bouton dans la liste des taches permettant uniquement aux administrateurs d'ajouter des nouvelles taches 
@@ -61,6 +65,7 @@ Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 62.2 S'agissant de l'ajout d'une tache, faites en sorte d'imposer une saisie et ne sauvegarder que dans ce cas
 
 **Retour sur Heroku**
+
 63.1 Il s'agit ici de mettre votre back sur heroku puis de tester avec votre appli front
 63.2 Effectuer tous les tests de sécurité de votre api
 63.3 Challenger les autres développeurs en les invitant à tenter de hacker votre api
@@ -71,6 +76,7 @@ Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 **Bonus : refaite de même avec une autre appli(Banquaire, E-commerce, Réservation hotels)**
 
 <h3>Jeudi</h3>
+
 **Veille OpenId Connect & Auth0**
 
 *Reprenez l'api de gestion des entreprises puis utiliser Keyclock pour gérer les accès sécurisés*
@@ -91,6 +97,7 @@ Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 **Bonus : refaite de même avec une autre appli(Banquaire, E-commerce, Réservation hotels)**
 
 <h3>Vendredi</h3>
+
 **Veille sur l'adaptabilité en entreprise/équipe**
 
 Terminer tous les travaux de la semaine et les envoyer sur github puis transferer à vos tuteurs(rices) et formateur avec les comptes rendus
