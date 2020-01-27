@@ -1,7 +1,7 @@
 DEPLOY SECURE APPS (part two)
 ===
 
-![center](/home/elbabili/Boostnote/notes/fb.png)
+![center](/fb.png)
 
 <h3>Lundi</h3>
 **Retour alternance**
@@ -86,7 +86,7 @@ Exemple: avec le tableau [78, 6, -250, 2, 12, 9], le résultat sera 90*
 *Vous pouvez continuer à bidouiller l'outil qui permet la gestion de nombreuses fonctionnalités*
 -> mot de pass oublié, se rappeler de moi, nouvel utilisateur...
 
-![center](/home/elbabili/Boostnote/notes/keycloak.png)
+![center](/keycloak.png)
 
 **Bonus : refaite de même avec une autre appli(Banquaire, E-commerce, Réservation hotels)**
 
